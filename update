@@ -1,8 +1,8 @@
-version: 2.1.1
+version: 2.1.2
 files:
   - url: Tool_Bm_Setup.exe
-    sha512: LkfqLYNBSbO7Aw/L8ACUqhI63/iZZmI3K1aFwdhv51ykD0cDzqp4T3g48UTiO2tprT2YO1sUTWMfXOE+uaUnxw==
-    size: 295111475
+    sha512: x1H+37oAyX/SRf6wqdtVleeO913JNJpdJkAe/zYVmV4OKHl6w2PDKN7x3at3IF7/d0KB7epJGusQJvXtIRWOsQ==
+    size: 295085405
 path: Tool_Bm_Setup.exe
-sha512: LkfqLYNBSbO7Aw/L8ACUqhI63/iZZmI3K1aFwdhv51ykD0cDzqp4T3g48UTiO2tprT2YO1sUTWMfXOE+uaUnxw==
-releaseDate: '2024-11-12T18:05:35.173Z'
+sha512: x1H+37oAyX/SRf6wqdtVleeO913JNJpdJkAe/zYVmV4OKHl6w2PDKN7x3at3IF7/d0KB7epJGusQJvXtIRWOsQ==
+releaseDate: '2024-11-13T10:51:28.908Z'
